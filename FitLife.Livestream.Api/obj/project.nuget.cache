@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgGhlb3TNK8=",
+  "success": true,
+  "projectFilePath": "/Users/rasmusmollerkristensen/Collabs/FitLife/Livestream/FitLife.Livestream.Api/FitLife.Livestream.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/rasmusmollerkristensen/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/rasmusmollerkristensen/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
